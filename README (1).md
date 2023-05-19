@@ -2,13 +2,15 @@
 description: Haha yes, it is
 ---
 
-# It is usually ReadMe
+# readme
+
+## It is usually ReadMe
 
 folder lowercase/ no spacebar
 
 Run `generate.py` to able to publish on gitbook
 
-# Outro
+## Outro
 
 not gitbook-cli
 
