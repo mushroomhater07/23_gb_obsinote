@@ -1,0 +1,15 @@
+{
+  "name": "23_gb_obsinote",
+  "version": "1.0.0",
+  "description": "* Reaction scheme\r * Risk assessment\r * Apparatus list and diagram (Read 2d - select the appropriate equipment!)&#x20;\r * &#x20;Synthesis method (provided)  Ethanol + Acetic acid → ethyl ethanoate + water //esterification\r * Purification method (You need to plan this. Including the amounts/volumes of material used)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "honkit": "^4.0.7"
+  }
+}
