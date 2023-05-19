@@ -1,0 +1,11 @@
+SELECT 
+FROM   INNER JOIN ON
+WHERE
+	Between
+	IN
+	NOT
+	LIKE _ single %wilcard
+	AND OR
+PIVOT "m" & …
+GROUP BY
+ORDER BY DESC/ASC
