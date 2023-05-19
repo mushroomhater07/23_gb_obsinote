@@ -2,7 +2,6 @@
 
 * [](/README.md)
 * [intro](<intro.md>)
-* [summary](<SUMMARY.md>)
 * [todo](<todo.md>)
 * [01_save](01_save/README.md)
 	* [2021-06-03](<01_save/2021-06-03.md>)
