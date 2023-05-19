@@ -1,5 +1,8 @@
+# kotlin
+
 Numbers
-``` Kotlin
+
+```Kotlin
 val fish = 2
 fish.times(2) //output 4
 .plus
@@ -7,6 +10,7 @@ fish.times(2) //output 4
 .minus
 Fish.ToInt / .toLong()
 ```
+
 ```Kotlin
 var = dim
 val = const
@@ -15,6 +19,7 @@ fun ___(){}
 No ;
 Println(“guhgivswoify”)
 ```
+
 ```Kotlin
 Dim as as string //null
 String as; //null
@@ -25,7 +30,9 @@ as!!.eat()
 
 ! = bang !!= double bang (what is it(not null
 ```
+
 Null Exception @Kotlin
+
 ```Kotlin
 //check whether var is not null
 
@@ -48,7 +55,9 @@ else -> println
 }
 when{happy == 100 -> “happy”}
 ```
+
 Array amd List
+
 ```Kotlin
 val myList  =mutableListOf(“”,””,””) //reference
 myList = mutableListOf(“”,””) //error
@@ -70,7 +79,9 @@ array[5]
 
 100.mod(7) //2
 ```
+
 Function
+
 ```Kotlin
 fun main(){} // 
 // every function return value   
@@ -88,7 +99,9 @@ fun randomd() : String{} // return a string value
 fun swim(speed: String = “fast”){} //parameter default fast
 swim(speed = “slow”)
 ```
+
 kotlin style variable declaration
+
 ```Kotlin
 fun getPair() = Pair(1, "foo")
 fun num() = 20
@@ -96,6 +109,7 @@ fun isTooHot(temp :Int)  = temp> 20
 ```
 
 slow your app and potential out-of-memory errors
+
 ```Kotlin
 fun make() = println(“”)
 fun makenew( var :Any = make()) {} //if no parameter passed, whole var is made as default ==make()
@@ -104,13 +118,14 @@ Repeat(2){} //kotlin library (same as for loop)
 ```
 
 Cannot assign for/while in variable
+
 ```Kotlin
 val variable = for(x in 1..2){}
 val variable= while(){}
 ```
-//kotlin (not interchangable)and C#
-‘    ’ for char
-“   ” for string
+
+//kotlin (not interchangable)and C# ‘    ’ for char “   ” for string
+
 ```Kotlin
 
 filter == indexOf() // contains
@@ -122,7 +137,9 @@ val lazy_map = variable.asSequence().map { println (it) } // output: hey
 Println(lazy_map.first()) //output:hey
 Println(lazy_map.toList()) // [“hey”, “heyman”, “on9”]
 ```
+
 Lambda
+
 ```Kotlin
 fun ___(){}  //named function
 { code of lines }()       //Lambda //anonymus function or function literals ///high-order function
@@ -141,9 +158,8 @@ val random1 = random()  //value assign at compile (wont change runtime
 val random2 = {random()} //every time call, execute (as reference)
 ```
 
-classes 
-![[Pasted image 20230118121139.png]]
-![[Pasted image 20230118121146.png]]
+classes !\[\[Pasted image 20230118121139.png]] !\[\[Pasted image 20230118121146.png]]
+
 ```Kotlin
 class Something{
 	val height = 50 //properties
@@ -160,9 +176,11 @@ class something ( var/val parameter :Int  = “default value” ){       
 constructor( variable2 :Int) :this() {}  } //define constructor, calculation specific for constructor
 val variable = something( variable2 = 89)
 ```
-![[Pasted image 20230118121207.png]]
+
+!\[\[Pasted image 20230118121207.png]]
 
 most class only specify one constructor with default parameter //constructor overload not needed]
+
 ```Kotlin
 class something( val number: Int){
 	val variable :Int
@@ -177,7 +195,9 @@ open var variable = 50} // open is necessary for inheritance
 class some2() : something(){  //inheritance by naming the data type as the class
 override var variable = 60} //open is needed before override
 ```
+
 Abstract
+
 ```Kotlin
 some basic function, properties like: people head = 1
 
