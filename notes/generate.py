@@ -19,7 +19,7 @@ def generate_summary_md(directory):
                 summary_md += f"* [{file[0:-3].lower().replace(os.sep, '/')}](<{os.path.join(path, file)[2:].replace(os.sep, '/')}>)\n"
 
     with open("SUMMARY.md", "w", encoding="utf-8") as f:
-        f.write(summary_md[2:])
+        f.write("# Table of contents\n\n"+summary_md[0:])
 
     return "SUMMARY.md"
 
