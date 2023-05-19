@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gce-a-level/Win-ver.md",
+                "file": "account/Youtube uses.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "|",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gce-a-level/Win-ver.md",
+                "file": "account/Youtube uses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2c3ac83868da225c",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gce-a-level/Win-ver.md"
+                "file": "account/Youtube uses.md"
               }
             }
           }
@@ -171,32 +172,32 @@
   },
   "active": "6cf19a9357372391",
   "lastOpenFiles": [
-    "SUMMARY.md",
-    "01_save/Food.md",
-    "01_save/Fire man.md",
-    "01_save/on9 host fam.md",
-    "03_randomsheep/money flow.md",
-    "03_randomsheep/ToDo.md",
-    "todo.md",
-    "ubuntu.md",
-    "03_randomsheep/- CCNA.md",
-    "02_learning/VB.NET shortcut.md",
+    "youtube/Windows software.md",
+    "gce-a-level/Win-ver.md",
     "02_learning/VDI vs IDV vs diskless node.md",
-    "03_randomsheep/- AD.md",
-    "03_randomsheep/- Bash.md",
-    "03_randomsheep/- CV advise.md",
+    "cs/Untitled.md",
+    "cs/Unit 12 20-1-2023.md",
+    "gce-a-level/Statistics c8b942f1447346edae5b525bf0f8973d.md",
+    "03_randomsheep/Sex determine - To be investigate.md",
+    "02_learning/Self-hosted (docker.md",
+    "01_save/Save.md",
+    "cs/RegEx.md",
+    "gce-a-level/Paper 2 cfee22cb325b4c5495dd24dbb2ba8806.md",
+    "gce-a-level/Paper 1 954ae7abf8c44276b3f89b12d9df80fa.md",
+    "cs/P2.md",
+    "youtube/Nice web.md",
+    "gce-a-level/Massive Mock Exam Qs 9228453f9b9544939f2fceee54bb7c07.md",
+    "youtube/Mac OS.md",
+    "youtube/EXE.md",
+    "02_learning/Diagrams in Obsidian.md",
+    "cs/BNF.md",
     "02_learning/Android Beginner-WIN-UI44OIG4P98.md",
     "02_learning/Android Beginner.md",
+    "year1csp1/12.0 Finite State Machine !ws answer needed (theory of computation).md",
+    "year1csp1/11.1 Abstraction & automation.md",
+    "SUMMARY.md",
     "02_learning/ASP.NET.md",
-    "03_randomsheep/CS in Action.md",
-    "03_randomsheep/CS in Action-WIN-UI44OIG4P98.md",
-    "02_learning/Diagrams in Obsidian-WIN-UI44OIG4P98.md",
-    "02_learning/Diagrams in Obsidian.md",
-    "02_learning/Socket.io-WIN-UI44OIG4P98.md",
-    "02_learning/Socket.io.md",
-    "02_learning/Hacking for dummies-WIN-UI44OIG4P98.md",
-    "02_learning/Hacking for dummies.md",
-    "02_learning/C++.md",
+    "01_save/Food.md",
     "Untitled.canvas",
     "00_Attach/Pasted image 20220309200043.png~RF2750c2.TMP",
     "00_Attach/Pasted image 20220310001737.png~RF275025.TMP",
