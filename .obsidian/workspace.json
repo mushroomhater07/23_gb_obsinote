@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_randomsheep/- CCNA.md",
+                "file": "gce-a-level/Win-ver.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,8 +50,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mealy",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_randomsheep/- CCNA.md",
+                "file": "gce-a-level/Win-ver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_randomsheep/- CCNA.md"
+                "file": "gce-a-level/Win-ver.md"
               }
             }
           }
@@ -171,6 +171,15 @@
   },
   "active": "6cf19a9357372391",
   "lastOpenFiles": [
+    "SUMMARY.md",
+    "01_save/Food.md",
+    "01_save/Fire man.md",
+    "01_save/on9 host fam.md",
+    "03_randomsheep/money flow.md",
+    "03_randomsheep/ToDo.md",
+    "todo.md",
+    "ubuntu.md",
+    "03_randomsheep/- CCNA.md",
     "02_learning/VB.NET shortcut.md",
     "02_learning/VDI vs IDV vs diskless node.md",
     "03_randomsheep/- AD.md",
@@ -188,15 +197,6 @@
     "02_learning/Hacking for dummies-WIN-UI44OIG4P98.md",
     "02_learning/Hacking for dummies.md",
     "02_learning/C++.md",
-    "03_randomsheep/- As a human.md",
-    "Untitled.md",
-    "ubuntu.md",
-    "todo-WIN-UI44OIG4P98.md",
-    "SUMMARY.md",
-    "Purify Ethyl ethanoate.md",
-    "README.md",
-    "README (1).md",
-    "CS/P1/Year 1 CS P1/12.0 Finite State Machine !ws answer needed (theory of computation).md",
     "Untitled.canvas",
     "00_Attach/Pasted image 20220309200043.png~RF2750c2.TMP",
     "00_Attach/Pasted image 20220310001737.png~RF275025.TMP",
