@@ -9,17 +9,17 @@ def generate_summary_md(directory):
                 if(currentpath != path):
                     currentpath = path
                     if len(path.split(os.sep)) > 1:
-                        summary_md += f"\t"         # simple file-system can disable it       
-                        summary_md += f"* [{path.split(os.sep)[-1].lower().replace(os.sep, '/')}]({path.replace(' ','-')[2:].replace(os.sep, '/')}/README.md)\n"
+                        summary_md += f"\t"         # simple file-system can disable it       {path.split(os.sep)[-1].lower().replace(os.sep, '/')}{path.split(os.sep)[-1][2:].lower().replace(os.sep, '/')}
+                        summary_md += f"* [readme]({path.replace(' ','-')[2:].replace(os.sep, '/')}/)\n"
                     else:
-                        summary_md += f"* [{path.split(os.sep)[-1][2:].lower().replace(os.sep, '/')}]({path.replace(' ','-')[2:].replace(os.sep, '/')}/README.md)\n"
+                        summary_md += f"* [readme]({path.replace(' ','-')[2:].replace(os.sep, '/')}/)\n"
                 if(path != directory):
                     # for i in path[len(directory):].split(os.sep):
                     summary_md += f"\t"
                 summary_md += f"* [{file[0:-3].lower().replace(os.sep, '/')}](<{os.path.join(path, file)[2:].replace(os.sep, '/')}>)\n"
 
     with open("SUMMARY.md", "w", encoding="utf-8") as f:
-        f.write("# Table of contents\n\n"+summary_md[0:])
+        f.write("# summary\n\n"+summary_md[0:])
 
     return "SUMMARY.md"
 
