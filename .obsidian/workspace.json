@@ -11,8 +11,13 @@
             "id": "6cf19a9357372391",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "03_randomsheep/- CCNA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -68,6 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03_randomsheep/- CCNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03_randomsheep/- CCNA.md"
+              }
             }
           }
         ]
@@ -161,8 +169,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b30d780418587c1c",
+  "active": "6cf19a9357372391",
   "lastOpenFiles": [
+    "02_learning/VB.NET shortcut.md",
+    "02_learning/VDI vs IDV vs diskless node.md",
+    "03_randomsheep/- AD.md",
+    "03_randomsheep/- Bash.md",
+    "03_randomsheep/- CV advise.md",
+    "02_learning/Android Beginner-WIN-UI44OIG4P98.md",
+    "02_learning/Android Beginner.md",
+    "02_learning/ASP.NET.md",
     "03_randomsheep/CS in Action.md",
     "03_randomsheep/CS in Action-WIN-UI44OIG4P98.md",
     "02_learning/Diagrams in Obsidian-WIN-UI44OIG4P98.md",
@@ -172,8 +188,6 @@
     "02_learning/Hacking for dummies-WIN-UI44OIG4P98.md",
     "02_learning/Hacking for dummies.md",
     "02_learning/C++.md",
-    "02_learning/Android Beginner-WIN-UI44OIG4P98.md",
-    "03_randomsheep/- AD.md",
     "03_randomsheep/- As a human.md",
     "Untitled.md",
     "ubuntu.md",
@@ -183,12 +197,6 @@
     "README.md",
     "README (1).md",
     "CS/P1/Year 1 CS P1/12.0 Finite State Machine !ws answer needed (theory of computation).md",
-    "CS/P1/Limit Computation.md",
-    "CS/P1/Untitled.md",
-    "CS/P1/BNF.md",
-    "CS/P1/Vector.md",
-    "CS/P1/RegEx.md",
-    "CS/P1/SQL.md",
     "Untitled.canvas",
     "00_Attach/Pasted image 20220309200043.png~RF2750c2.TMP",
     "00_Attach/Pasted image 20220310001737.png~RF275025.TMP",
