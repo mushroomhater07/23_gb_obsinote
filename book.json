@@ -1,0 +1,8 @@
+{
+  "root": "./honkit",
+  "structure": {
+    "readme": "intro.md",
+    "summary": "SUMMARY.md"
+  },
+  "title": "Hey space"
+}
