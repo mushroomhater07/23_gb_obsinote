@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 16,
+  "accentColor": "#0084ff",
+  "cssTheme": "Things",
+  "nativeMenus": false,
+  "translucency": true,
+  "theme": "obsidian",
+  "interfaceFontFamily": "Inter",
+  "enabledCssSnippets": []
+}

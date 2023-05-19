@@ -1,0 +1,382 @@
+{
+  "main": {
+    "id": "f38c6d6d82d0de7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "199cfd3608dbe5f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86ec5d34bebe09b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "randomsheep/Interview Day 2023-01-25 09_50_52.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58b5ca2338b0d195",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "randomsheep/Interview Day.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd7673903d8eaa39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ToDo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c147df8bc30afc61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ToDo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c991036525c5d2c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "randomsheep/- CV advise.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c9b5fd4c08b32df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "randomsheep/- CV advise.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59bd13c22d1161c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Save/2021-06-04.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1b9f10c2b9e931a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Save/Food.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9596fd2fbfbb8004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Save/TPOMPS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08a7dd6d8daadeab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Sprital Day.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2f6868a1fff814c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "randomsheep/- CV advise.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "902fd5a0dd377c16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Sexual constent.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e660030ca2b5607a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VB.NET shortcut.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a13d562036ebe50b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Save/Travel advice.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "909f23c81f644dbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Save/2021-06-03.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2008e28dc7acfd64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "randomsheep/Willow.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9578dba7e109d438",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e8d69bc88cdf89c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcce7acfb307acf1",
+        "type": "tabs",
+        "dimension": 54.6655656482246,
+        "children": [
+          {
+            "id": "b30d780418587c1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6cbddc97ac46569",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "hack",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31823a6703c15ebe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "629e4f146c9bf278",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "randomsheep/Interview Day.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2c3ac83868da225c",
+        "type": "tabs",
+        "dimension": 16.515276630883573,
+        "children": [
+          {
+            "id": "73a3fb47f01aae6b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4bb1c8b4a79a4111",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4505b59029cb0da8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "randomsheep/Interview Day.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c20ae45a895b5757",
+        "type": "tabs",
+        "dimension": 28.819157720891823,
+        "children": [
+          {
+            "id": "4c2bcdab71a7f24f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5124969482422
+  },
+  "right": {
+    "id": "41ec489e92d6679f",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": true
+    }
+  },
+  "active": "58b5ca2338b0d195",
+  "lastOpenFiles": [
+    "randomsheep/Interview Day 2023-01-25 09_50_52.md",
+    "randomsheep/Interview Day 2023-01-25 09_27_24.md",
+    "randomsheep/- VDI vs IDV vs diskless node vs RDS.md",
+    "CS/P1/Paper 1.md",
+    "ToDo.md",
+    "randomsheep/- AD + Todo.md",
+    "randomsheep/- As a human.md",
+    "randomsheep/- CS in Action.md",
+    "randomsheep/- CV advise.md",
+    "randomsheep/FI Accountancy.md"
+  ]
+}
