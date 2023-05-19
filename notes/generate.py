@@ -25,7 +25,7 @@ def generate_summary_md(directory):
 
 
 if __name__ == "__main__":
-    directory = "./notes"
+    directory = "./"
     summary_md = generate_summary_md(directory)
 
     print(f"Generated summary.md file at {summary_md}")
