@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDO.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ToDO.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,8 +92,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2c3ac83868da225c",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ToDO.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -170,8 +169,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a6cbddc97ac46569",
+  "active": "6cf19a9357372391",
   "lastOpenFiles": [
+    "ubuntu.md",
+    "Untitled.md",
+    "todo-WIN-UI44OIG4P98.md",
+    "SUMMARY.md",
+    "Purify Ethyl ethanoate.md",
+    "README.md",
+    "README (1).md",
     "CS/P1/Year 1 CS P1/12.0 Finite State Machine !ws answer needed (theory of computation).md",
     "CS/P1/Limit Computation.md",
     "CS/P1/Untitled.md",
@@ -180,12 +186,9 @@
     "CS/P1/RegEx.md",
     "CS/P1/SQL.md",
     "CS/P1/Functional Programming.md",
-    "Purify Ethyl ethanoate.md",
     "02_Learning/Socket.io.md",
     "Chem Yr12.md",
     "ToDO.md",
-    "ubuntu.md",
-    "Untitled.md",
     "Untitled.canvas",
     "CS/P1/Unit 12 20-1-2023.md",
     "CS/P2.md",
@@ -200,14 +203,10 @@
     "00_Attach/Pasted image 20230118131411.png~RF274be0.TMP",
     "00_Attach/Pasted image 20230118132447.png~RF274a0b.TMP",
     "00_Attach/Pasted image 20230118132602.png~RF27496f.TMP",
-    "CS/P1/Year 1 CS P1/11.1 Abstraction & automation.md",
-    "CS/P1/Year 1 CS P1/8.0 Searching.md",
     "00_Attach/Pasted image 20230118132443.png",
     "00_Attach/Pasted image 20220310004856.png",
     "00_Attach/Pasted image 20230118110500.png",
-    "CS/P1/Year 1 CS P1/6.4 Trace Table.md",
     "00_Attach/Pasted image 20230118105225.png",
-    "02_Learning/Home Router.md",
     "00_Attach/Pasted image 20230118113648.png",
     "00_Attach/Pasted image 20230118121207.png",
     "00_Attach/Pasted image 20220309200043.png",
