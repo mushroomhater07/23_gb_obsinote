@@ -1,5 +1,5 @@
 # Honkit + GitBook + Obsidian Notebook
-
+git add . && git commit -m "no" && git push
 ## Setup
 
 `.nojekyll` for enable {} character and `book.json` for config
