@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "f38c6d6d82d0de7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e0a8a2a38f3b55a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f912dd23f6e426f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/P1/Haskell.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfe4a5a904b46771",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/P1/BNF.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d32fab30e306e6f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "randomsheep/Virtualisation - VMware.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7fb793988e3b263",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chem/Amino acid diamides.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95f3bce000459994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/P1/Haskell.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e8d69bc88cdf89c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcce7acfb307acf1",
+        "type": "tabs",
+        "dimension": 59.62059620596206,
+        "children": [
+          {
+            "id": "b30d780418587c1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6cbddc97ac46569",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31823a6703c15ebe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "629e4f146c9bf278",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS/P1/Haskell.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2c3ac83868da225c",
+        "type": "tabs",
+        "dimension": 40.37940379403794,
+        "children": [
+          {
+            "id": "73a3fb47f01aae6b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4bb1c8b4a79a4111",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4505b59029cb0da8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS/P1/Haskell.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5124969482422
+  },
+  "right": {
+    "id": "41ec489e92d6679f",
+    "type": "split",
+    "children": [
+      {
+        "id": "066c2c58b24ec17c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01c431da3b2db9ad",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": true
+    }
+  },
+  "active": "95f3bce000459994",
+  "lastOpenFiles": [
+    "NEA/Objective.md",
+    "CS/P1/Unit 12 20-1-2023.md",
+    "Learning/Self-hosted (docker.md",
+    "randomsheep/OpenCore Setup.md",
+    "Chem/Amino acid diamides.md",
+    "CS/P1/Haskell.md",
+    "CS/P1/BNF.md",
+    "randomsheep/Setup Proxmox.md",
+    "randomsheep/Virtualisation - VMware.md",
+    "CS/P1/Paper 1.md"
+  ]
+}
