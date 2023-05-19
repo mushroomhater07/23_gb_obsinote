@@ -1,4 +1,4 @@
-# 23_gb_obsinote
+# Honkit + GitBook + Obsidian Notebook
 
 ## Setup
 
