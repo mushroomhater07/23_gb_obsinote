@@ -1,5 +1,5 @@
 {
-  "root": "./note",
+  "root": "./notes",
   "structure": {
     "readme": "intro.md",
     "summary": "SUMMARY.md"
