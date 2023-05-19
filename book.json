@@ -1,5 +1,5 @@
 {
-  "root": "./honkit",
+  "root": "./note",
   "structure": {
     "readme": "intro.md",
     "summary": "SUMMARY.md"
