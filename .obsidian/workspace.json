@@ -11,13 +11,8 @@
             "id": "6cf19a9357372391",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -73,7 +68,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,9 +117,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,10 +161,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6cf19a9357372391",
+  "active": "b30d780418587c1c",
   "lastOpenFiles": [
-    "ubuntu.md",
+    "03_randomsheep/CS in Action.md",
+    "03_randomsheep/CS in Action-WIN-UI44OIG4P98.md",
+    "02_learning/Diagrams in Obsidian-WIN-UI44OIG4P98.md",
+    "02_learning/Diagrams in Obsidian.md",
+    "02_learning/Socket.io-WIN-UI44OIG4P98.md",
+    "02_learning/Socket.io.md",
+    "02_learning/Hacking for dummies-WIN-UI44OIG4P98.md",
+    "02_learning/Hacking for dummies.md",
+    "02_learning/C++.md",
+    "02_learning/Android Beginner-WIN-UI44OIG4P98.md",
+    "03_randomsheep/- AD.md",
+    "03_randomsheep/- As a human.md",
     "Untitled.md",
+    "ubuntu.md",
     "todo-WIN-UI44OIG4P98.md",
     "SUMMARY.md",
     "Purify Ethyl ethanoate.md",
@@ -185,19 +189,7 @@
     "CS/P1/Vector.md",
     "CS/P1/RegEx.md",
     "CS/P1/SQL.md",
-    "CS/P1/Functional Programming.md",
-    "02_Learning/Socket.io.md",
-    "Chem Yr12.md",
-    "ToDO.md",
     "Untitled.canvas",
-    "CS/P1/Unit 12 20-1-2023.md",
-    "CS/P2.md",
-    "CS/P1/DataBase.md",
-    "CS/P1/Big Data.md",
-    "CS/P1/Fetch Execute Cycle.md",
-    "Chem/Chem Mock Exam revision.md",
-    "Chem/Amino acid diamides.md",
-    "CS/P1/Haskell.md",
     "00_Attach/Pasted image 20220309200043.png~RF2750c2.TMP",
     "00_Attach/Pasted image 20220310001737.png~RF275025.TMP",
     "00_Attach/Pasted image 20230118131411.png~RF274be0.TMP",
