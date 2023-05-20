@@ -1,7 +1,13 @@
+# - nfs vs zfs vs san
 
-# ZFS - limiting (trueNAS)
+## ZFS - limiting (trueNAS)
 
-# NFS
+## NFS
 
-# SAN
+use in Synology
 
+## iSCSI
+
+local disk on windows
+
+## SAN
