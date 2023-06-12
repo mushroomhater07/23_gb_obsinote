@@ -166,9 +166,7 @@ problem solving question - sodu or murder mystery
     * produce progressively
     * expensive method call ( copy of whole method
 * OOP
-
-\| class | template, !execute | | --------------------------- | -------------------------------------- | | object | instance of class, execute() | | instantiation | creating object from class | | encapsulation | grouping data, method in same gp | | SETTER GETTER → constructor | | | inheritance | | | aggregation | <> has-a | | composition | \</> part-of | | polymorphism | Inheritance | | overriding | | | abstract | only signature, !implement | | virtual | implement can redefine | | static | relevant to all instantance, no owning | | public | + | | private | - | | protected | # |
-
+* \| class | template, !execute | | --------------------------- | -------------------------------------- | | object | instance of class, execute() | | instantiation | creating object from class | | encapsulation | grouping data, method in same gp | | SETTER GETTER → constructor | | | inheritance | | | aggregation | <> has-a | | composition | \</> part-of | | polymorphism | Inheritance | | overriding | | | abstract | only signature, !implement | | virtual | implement can redefine | | static | relevant to all instantance, no owning | | public | + | | private | - | | protected | # |
 *   Comment & code style
 
     good constrution. programmar friendly
