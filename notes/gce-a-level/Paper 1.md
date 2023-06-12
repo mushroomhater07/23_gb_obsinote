@@ -88,7 +88,7 @@ problem solving question - sodu or murder mystery
 *   algorithm why is not working
 
     incorrect input due to error .
-*   Structured Programming
+* Structured Programming
 
 | Structured English   | Pseudo code                | Structural Chart -sub-routine- | Flowchart      |
 | -------------------- | -------------------------- | ------------------------------ | -------------- |
@@ -102,6 +102,7 @@ problem solving question - sodu or murder mystery
 | REPEAT UNTIL         | While… EndWhile            | Repeat                         | Tape           |
 | SELECT VALUE x 1: 2: | Case x Of 1: EndCase       |                                |                |
 | DO WHILE             |                            |                                |                |
+
 *   Theory of computation
 
     Knowledgr: breaking problem into smaller sub-problem
@@ -110,37 +111,41 @@ problem solving question - sodu or murder mystery
 
     each of which might be further subdivided
 
-    *   abstraction
+    * abstraction
 
-| Representational           | by removing unnecessary details                  |     |
-| -------------------------- | ------------------------------------------------ | --- |
-| Procedural                 | broken down into procedure/ sub-routine design   |     | 
-| Generalization             | grouping by common characteristics               |     |
-| Functional                 | Broken down in to reusable function              |     |
-| Data                       | organizing structure data/ hiding (using Classes |     |
-| Problem                    | reducing problem                                 |     |
-| remove unnecessary problem |                                                  |     |
-    *   problem solving
+| Representational           | by removing unnecessary details                  |   |
+| -------------------------- | ------------------------------------------------ | - |
+| Procedural                 | broken down into procedure/ sub-routine design   |   |
+| Generalization             | grouping by common characteristics               |   |
+| Functional                 | Broken down in to reusable function              |   |
+| Data                       | organizing structure data/ hiding (using Classes |   |
+| Problem                    | reducing problem                                 |   |
+| remove unnecessary problem |                                                  |   |
 
-        finding solution to real life problem
-    * Information hiding VS Encapsulation
-      *   information hiding
+```
+*   problem solving
 
-          only access or modified within object (access though derived method only
+    finding solution to real life problem
+* Information hiding VS Encapsulation
+  *   information hiding
 
-          hide all detail of an object that dont contribute to the essential characteristics
-      *   Encapsulation SETTER and GETTER
+      only access or modified within object (access though derived method only
 
-          abstract data type (can change data type
-    *   Decomposition
+      hide all detail of an object that dont contribute to the essential characteristics
+  *   Encapsulation SETTER and GETTER
 
-        break down problem into small piece
-    *   Composition
+      abstract data type (can change data type
+*   Decomposition
 
-        combining procedure into compound procedure
-    *   Automation
+    break down problem into small piece
+*   Composition
 
-        model are put into action to solve problem
+    combining procedure into compound procedure
+*   Automation
+
+    model are put into action to solve problem
+```
+
 *   Recursive algorithm
 
     sub-routine is call itself
@@ -160,25 +165,10 @@ problem solving question - sodu or murder mystery
     * loop terminated vs base case
     * produce progressively
     * expensive method call ( copy of whole method
-*   OOP
+* OOP
 
-| class                       | template, !execute                     |
-    | --------------------------- | -------------------------------------- |
-    | object                      | instance of class, execute()           |
-    | instantiation               | creating object from class             |
-    | encapsulation               | grouping data, method in same gp       |
-    | SETTER GETTER → constructor |                                        |
-    | inheritance                 |                                        |
-    | aggregation                 | <> has-a                               |
-    | composition                 | \</> part-of                           |
-    | polymorphism                | Inheritance                            |
-    | overriding                  |                                        |
-    | abstract                    | only signature, !implement             |
-    | virtual                     | implement can redefine                 |
-    | static                      | relevant to all instantance, no owning |
-    | public                      | +                                      |
-    | private                     | -                                      |
-    | protected                   | #                                      |
+\| class | template, !execute | | --------------------------- | -------------------------------------- | | object | instance of class, execute() | | instantiation | creating object from class | | encapsulation | grouping data, method in same gp | | SETTER GETTER → constructor | | | inheritance | | | aggregation | <> has-a | | composition | \</> part-of | | polymorphism | Inheritance | | overriding | | | abstract | only signature, !implement | | virtual | implement can redefine | | static | relevant to all instantance, no owning | | public | + | | private | - | | protected | # |
+
 *   Comment & code style
 
     good constrution. programmar friendly
@@ -424,30 +414,23 @@ What is a model of simulation
     | ?  | optional |
     |    |          |
     | () | group    |
-*   Set - no repeating data #set
+* Set - no repeating data #set
+  * finite set
+  * infinite set
+  * countably infinite - set of Natural number
 
-    * finite set
-    * infinite set
-    * countably infinite - set of Natural number
+\| Cartesian product | axb ≠ bxa (comma not reversible) | | ----------------- | -------------------------------- | | Cardinality | |
 
- | Cartesian product | axb ≠ bxa (comma not reversible) |
-    | ----------------- | -------------------------------- |
-    | Cardinality       |                                  |
+```
+set comprehension = the rule of the set
+```
 
-    set comprehension = the rule of the set
+\| ∈ | member of (compare member) | | -- | -------------------------- | | ∉ | not a member of | | ∪ | OR | | ∩ | AND | | ø | NULL | | {} | a set | | ⊆ | subset of (compare set) | | ⊂ | subset of and not equal | | \ | delete left from right |
 
- | ∈  | member of (compare member) |
-    | -- | -------------------------- |
-    | ∉  | not a member of            |
-    | ∪  | OR                         |
-    | ∩  | AND                        |
-    |  ø | NULL                       |
-    | {} | a set                      |
-    | ⊆  | subset of (compare set)    |
-    | ⊂  | subset of and not equal    |
-    | \\ | delete left from right     |
+```
+{a,b,c} !∈ {a, b, c, d, e}
+```
 
-    {a,b,c} !∈ {a, b, c, d, e}
 *   UTM
 
     universal turning machine

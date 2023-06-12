@@ -1,9 +1,11 @@
+# win-ver
+
 | Windows 1.0                         |                                                                                                                   |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | Windows 2.03                        |                                                                                                                   |
 | Windows 3.0                         |                                                                                                                   |
 | Windows 3.1x                        |                                                                                                                   |
-| Windows NT 3.1  pp                  |                                                                                                                   |
+| Windows NT 3.1 pp                   |                                                                                                                   |
 | Windows 3.11                        |                                                                                                                   |
 | Windows 3.2                         |                                                                                                                   |
 | Windows NT 3.5                      | http://web.archive.org/web/20070311134342/http://www.microsoft.com/technet/archive/winntas/default.mspx?mfr=true  |

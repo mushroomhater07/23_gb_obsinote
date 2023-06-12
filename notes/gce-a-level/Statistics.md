@@ -12,38 +12,44 @@
 *   sampling frame
 
     list of sampling unit
-*   Random
+* Random
 
 | simple random | same chance of being selected use random number generator                                       | Bias free           | need sampling frame           |
 | ------------- | ----------------------------------------------------------------------------------------------- | ------------------- | ----------------------------- |
 | systematic    | take every kth unit k = population/sample pick a randomo number between 1 and k for staring     | quick to use        | need sampling frame           |
 | Stratified    | sample represent group of a population sample/population\*strata for each strata, pick randomly | reflect popoulation | population must be classified |
 
-    *   Non Random
+```
+*   Non Random
+```
 
 | Quota      | pick a representive from a group | no sampling frame easy to comparasion | nonrandom potential bias |
 | ---------- | -------------------------------- | ------------------------------------- | ------------------------ |
 | Oppotunity | Quota for avaliable              | Easy/ cheap                           | unlikely to representive |
-    *   Types of data
 
-        *   Qualitative
+```
+*   Types of data
 
-            non numerical
-        *   Quantative
+    *   Qualitative
 
-            numerical either continuous or dscrete
+        non numerical
+    *   Quantative
 
-        mutally exclusive vs independent
+        numerical either continuous or dscrete
 
-    winder rainer - coastal
+    mutally exclusive vs independent
 
-    warmer sunshine - south
+winder rainer - coastal
 
-    May- Oct ‘`87- '15`
+warmer sunshine - south
 
-    Perth Australia
+May- Oct ‘`87- '15`
 
-    ![Untitled](../gce%20a-level/Statistics%20c8b942f1447346edae5b525bf0f8973d/Untitled.png)
+Perth Australia
+
+![Untitled](../gce%20a-level/Statistics%20c8b942f1447346edae5b525bf0f8973d/Untitled.png)
+```
+
 *   calculate range
 
     including outliner

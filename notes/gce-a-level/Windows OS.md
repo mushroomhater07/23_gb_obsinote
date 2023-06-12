@@ -22,7 +22,7 @@ Live
 
 [http://web.archive.org/web/20120206062017/http://explore.live.com/windows-live-essentials-movie-maker-get-started](http://web.archive.org/web/20120206062017/http://explore.live.com/windows-live-essentials-movie-maker-get-started)
 
-[Untitled](../gce-a-level/Windows%20OS%206aa5090052ca4e93913a10b33f0d9801/Untitled%20Database%2084efe79b654a4c9ca4288f5f52bd4d30.md)
+[Untitled](Windows%20OS%206aa5090052ca4e93913a10b33f0d9801/Untitled%20Database%2084efe79b654a4c9ca4288f5f52bd4d30.md)
 
 [Install & Configure MS-DOS 6.22 & Windows 3.1 using Oracle VirtualBox – Socket 3](https://socket3.wordpress.com/2016/08/25/install-configure-ms-dos-6-22-and-windows-3-1-using-oracle-virtualbox/)
 
