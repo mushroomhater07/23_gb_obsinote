@@ -1,15 +1,14 @@
-![](file:///C:/Users/Shalev/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)
-Need compile to execute
-![](file:///C:/Users/Shalev/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+# c++
 
-![](file:///C:/Users/Shalev/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png)
+![](file:///C:/Users/Shalev/AppData/Local/Temp/msohtmlclip1/01/clip\_image001.png) Need compile to execute ![](file:///C:/Users/Shalev/AppData/Local/Temp/msohtmlclip1/01/clip\_image002.png)
+
+![](file:///C:/Users/Shalev/AppData/Local/Temp/msohtmlclip1/01/clip\_image003.png)
 
 `.cpp` file inside the object file
 
-Object file include machine code too
-Sometimes object files are api and needed to link to execute and work
+Object file include machine code too Sometimes object files are api and needed to link to execute and work
 
-![](file:///C:/Users/Shalev/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)
+![](file:///C:/Users/Shalev/AppData/Local/Temp/msohtmlclip1/01/clip\_image004.png)
 
 we picked the open source GNU Compiler Collection, more commonly called G++ or GCC. `gcc` is a command line tool.
 
@@ -22,6 +21,7 @@ There is a high-level build tool called **CMake** that is fairly popular and cro
 G++ help
 
 Help
+
 ```powershell
 pwd (print working dir
 chdir (cd) (change dir
@@ -29,7 +29,26 @@ dir ( print all file and folder
 ls (list directory
 ```
 
-To compile the program: `g++ filename.cpp -o executableName
-To execute the program: ``./executableName
-`g++ filename.cpp -o nameOfExecutableCode.sth
-`./nameOfExecutableCode.sth` [to run]
+To compile the program: `g++ filename.cpp -o executableName To execute the program: ``./executableName` g++ filename.cpp -o nameOfExecutableCode.sth `./nameOfExecutableCode.sth` \[to run]
+
+## Example code
+
+```
+/*  Program:
+    Written by:
+    Date Written: */
+
+#include <stdio.h>
+
+void main{
+    char = 'a'; //single quote
+    printf("hi\n"); // end with ;
+}
+```
+
+## Variable type:
+
+* int
+* float
+* double
+* char
