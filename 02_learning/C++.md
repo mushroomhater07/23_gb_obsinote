@@ -41,8 +41,9 @@ To compile the program: `g++ filename.cpp -o executableName To execute the progr
 #include <stdio.h>
 
 void main{
-    char = 'a'; //single quote
-    printf("hi\n"); // end with ;
+    char x = 'a'; //single quote
+    printf("hi %d \n", x); // end with ;
+    
 }
 ```
 
